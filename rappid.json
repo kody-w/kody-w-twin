@@ -1,0 +1,13 @@
+{
+  "schema": "rapp-rappid/2.0",
+  "rappid": "rappid:v2:operator:@kody-w/twin:5b8ba4796692197aa4ccde5dfa5beb51@github.com/kody-w/kody-w-twin",
+  "kind": "operator",
+  "namespace": "@kody-w/twin",
+  "hash": "5b8ba4796692197aa4ccde5dfa5beb51",
+  "host": "github.com",
+  "owner": "kody-w",
+  "repo": "kody-w-twin",
+  "parent_rappid": "rappid:v2:prototype:@rapp/origin:0b635450c04249fbb4b1bdb571044dec@github.com/kody-w/RAPP",
+  "minted_at": "2026-05-11T22:15:24Z",
+  "notes": "Operator twin for @kody-w. Planted via the RAPP public tether (gh-CLI seeding for the species root) \u2014 the operator's permanent global address per Article XLVI, travels across every neighborhood they join."
+}

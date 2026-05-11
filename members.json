@@ -1,0 +1,13 @@
+{
+  "schema": "rapp-members/1.0",
+  "neighborhood_rappid": "rappid:v2:operator:@kody-w/twin:5b8ba4796692197aa4ccde5dfa5beb51@github.com/kody-w/kody-w-twin",
+  "updated_at": "2026-05-11T22:15:24Z",
+  "note": "This is @kody-w's personal twin \u2014 membership = just them. Other operators join NEIGHBORHOODS, not personal twins.",
+  "members": [
+    {
+      "rappid": "rappid:v2:operator:@kody-w/twin:5b8ba4796692197aa4ccde5dfa5beb51@github.com/kody-w/kody-w-twin",
+      "added_at": "2026-05-11T22:15:24Z",
+      "via": "genesis"
+    }
+  ]
+}
