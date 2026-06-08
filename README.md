@@ -3,7 +3,7 @@
 > The operator twin for @kody-w.  Both a public front door (per
 > CONSTITUTION Article XLVI + LI) **and** a hatchable twin identity.
 
-- **Rappid:** `rappid:v2:operator:@kody-w/twin:5b8ba4796692197aa4ccde5dfa5beb51@github.com/kody-w/kody-w-twin`
+- **Rappid:** `rappid:@kody-w/twin:5b8ba4796692197aa4ccde5dfa5beb51`
 - **Live front door:** https://kody-w.github.io/kody-w-twin/
 - **Parent species:** [`kody-w/RAPP`](https://github.com/kody-w/RAPP)
 
@@ -17,7 +17,7 @@ resolves to a GitHub-hosted front door.  This repo is that door for
 
 | File | Purpose |
 |------|---------|
-| `rappid.json` | Operator's permanent v2 rappid (Article XLVI). |
+| `rappid.json` | Operator's permanent rappid (Article XLVI). |
 | `soul.md` | Twin persona — system prompt for any brainstem hosting this twin. |
 | `members.json` | Trivial — just the operator. |
 | `index.html` | Public front gate with the canonical `rapp-front-gate-qr/1.0` snippet (Article LI). |
@@ -54,8 +54,8 @@ python ./twin_egg_hatcher_agent.py hatch           # auto-detects from cwd
 
 ```
 > Twin(action="list")                                                # see this twin
-> Twin(action="boot",  rappid_uuid="rappid:v2:operator:@kody-w/...")  # start on a free port
-> Twin(action="chat",  rappid_uuid="rappid:v2:operator:@kody-w/...", message="hi Kody")
+> Twin(action="boot",  rappid_uuid="rappid:@kody-w/twin:...")  # start on a free port
+> Twin(action="chat",  rappid_uuid="rappid:@kody-w/twin:...", message="hi Kody")
 ```
 
 The global brainstem source is never touched in the default flow.
