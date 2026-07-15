@@ -7,9 +7,9 @@
   "host": "github.com",
   "owner": "kody-w",
   "repo": "kody-w-twin",
-  "parent_rappid": "rappid:@rapp/origin:9a8f0a4b5a710e20f4d819a0f37d2a4c9f113b5e78fb3c29e70b54fff48a38f9",
+  "parent_rappid": "rappid:@kody-w/rapp:9a8f0a4b5a710e20f4d819a0f37d2a4c9f113b5e78fb3c29e70b54fff48a38f9",
   "minted_at": "2026-05-11T22:15:24Z",
-  "notes": "Operator twin for @kody-w. Planted via the RAPP public tether (gh-CLI seeding for the species root) — the operator's permanent global address per Article XLVI, travels across every neighborhood they join.",
+  "notes": "Operator twin for @kody-w. Planted via the RAPP public tether (gh-CLI seeding for the species root) \u2014 the operator's permanent global address per Article XLVI, travels across every neighborhood they join.",
   "_migrated_from": [
     "rappid:@kody-w/twin:5b8ba4796692197aa4ccde5dfa5beb51",
     "rappid:v2:operator:@kody-w/twin:5b8ba4796692197aa4ccde5dfa5beb51@github.com/kody-w/kody-w-twin"
