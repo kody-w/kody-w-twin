@@ -3,7 +3,7 @@
 > The operator twin for @kody-w.  Both a public front door (per
 > CONSTITUTION Article XLVI + LI) **and** a hatchable twin identity.
 
-- **Rappid:** `rappid:@kody-w/twin:5b8ba4796692197aa4ccde5dfa5beb51`
+- **Rappid:** `rappid:@kody-w/kody-w-twin:a4bbb62313f19c227012ab4238bafcc2980e47df1798a986416f3bfda92032a8`
 - **Live front door:** https://kody-w.github.io/kody-w-twin/
 - **Parent species:** [`kody-w/RAPP`](https://github.com/kody-w/RAPP)
 
